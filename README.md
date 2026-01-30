@@ -8,9 +8,7 @@ O repositório contém diferentes módulos, cada um representando uma atividade 
 
 - Prática de lógica de programação
 - Desenvolvimento de pequenos sistemas
-- Uso de bibliotecas e frameworks
 - Manipulação de dados
-- Testes e depuração
 - Integração entre componentes
 - Boas práticas de programação
 
